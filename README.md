@@ -1,4 +1,7 @@
-# 7-11-microwave-spectroscy-sensor
+# general-store-microwave-spectroscy-sensor
+
+think 7-11, wawa, other general stores that rely on a microwave in the store
+
 detect the wrong kind of  food from the drug street power off and log timestamp of preparation
 
 
