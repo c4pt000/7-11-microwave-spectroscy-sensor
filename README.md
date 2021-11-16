@@ -10,4 +10,4 @@ to detect stuff that never goes into a microwave whether it's for smoking or if 
 
 
 
-to vomit or not to vomit that is thr question of looking through the microscope
+to vomit or not to vomit that is the question of looking through the microscope
